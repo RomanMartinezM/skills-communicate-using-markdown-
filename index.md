@@ -8,3 +8,7 @@ This is a little commit in this file
 myVar = "Hello, world!";
 print(myVar)
 ```
+
+- [X] List syntax is required
+- [] This item is complete
+- [x] This item is not complete
