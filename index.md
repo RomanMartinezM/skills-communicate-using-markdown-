@@ -1,3 +1,5 @@
 # This is a header 1
 
 This is a little commit in this file
+
+![description image](https://octodex.github.com/images/yaktocat.png)
